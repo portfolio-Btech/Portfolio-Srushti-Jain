@@ -1,0 +1,113 @@
+/* *************************************External CSS File********************************** */
+
+/*################ start of global font ##################*/
+body{
+    font-family: 'Poppins',sans-serif;
+    font-size: 13px;
+}
+/*  theme color for background */
+.back2{
+    background: rgba(36,189,250,0.4);
+}
+.back {
+    background: rgba(36, 189, 250, 0.55);
+}
+/* for font */
+.font{
+    font-family: 'Neuton', serif;
+}
+/* theme color for text */
+
+.textcolor{
+    color: rgb(64, 15, 177,0.8);
+}
+.dashunder{
+    height: 2px;
+    background-color:#000000;
+    width: 5%;
+}
+
+
+/*################ endd of global font ################## */
+
+/* ############# styling ######### */
+/* navbar styling */
+.mainnavbar{
+    font-size: medium;
+    font-family: 'Neuton', serif;
+}
+.navbar-brand{
+    letter-spacing: 4px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.nav-link{
+    font-size: large;
+}
+.mainnavbar .nav-link:hover{
+    text-decoration: black;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+/* name */
+#myname{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Neuton',serif;
+    letter-spacing: 2.5px;
+    font-size: 52px;
+}
+/* picture */
+.Sizing{
+    width: 350px;
+    text-align: center;
+}
+/* the footer-ish part */
+.cute{
+    font-size: 17px;
+}
+/* the smaller description */
+.footertext{
+    font-size: 13px;
+}
+.atext{
+    text-decoration: none;
+    color: #000000;
+    /* border:#2b2b2b 2px solid; */
+    /* border-radius: 5px; */
+}
+.linespace{
+    line-height: 2;
+}
+.icons{
+    width: 110px;
+    height: auto;
+    color:rgba(36, 189, 250, 0.6);
+}
+.cardborder{
+    /* border: 1px solid #000000; */
+    border-radius: 8px;
+}
+.font1{
+    text-transform: uppercase;
+    font-family: 'Neuton',serif;
+}
+.font2{
+    font-family: 'Neuton',serif;
+    font-size: large;
+}
+.back3{
+    color: rgba(36,189,250);
+    letter-spacing: 30px;
+}
+footer>a:hover{
+    font-size: 30px;
+}
+.imgfluid{
+    height:50px;
+}
+img.style {
+    height: 120px;
+    width: 170px;
+}
